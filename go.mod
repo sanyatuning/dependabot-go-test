@@ -2,7 +2,7 @@ module github.com/sanyatuning/dependabot-go-test
 
 go 1.19
 
-require github.com/micro/cli/v2 v2.1.1
+require github.com/micro/cli/v2 v2.1.2
 
 require (
 	github.com/cpuguy83/go-md2man/v2 v2.0.0-20190314233015-f79a8a8ca69d // indirect
