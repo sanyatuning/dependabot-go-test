@@ -1,3 +1,7 @@
 version: 2
 updates:
   - package-ecosystem: gomod
+  - package-ecosystem: gomod
+    allow:
+      - dependency-name: "git.vcc.live/*"
+    ignore: []
