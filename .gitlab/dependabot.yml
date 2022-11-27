@@ -10,5 +10,5 @@ updates:
         update-types:
           - "version-update:semver-major"
           - "version-update:semver-minor"
-updater-options:
-  goprivate: git.vcc.live
+    updater-options:
+      goprivate: git.vcc.live
