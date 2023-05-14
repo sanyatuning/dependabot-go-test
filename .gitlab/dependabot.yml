@@ -5,4 +5,7 @@ updates:
     allow:
       - dependency-name: "git.vcc.live*"
   - package-ecosystem: gomod
+    open-security-pull-requests-limit: 5
+    allow:
+      - dependency-name: "*"
 
