@@ -1,3 +1,6 @@
 package main
 
-import _ "github.com/micro/cli"
+import (
+	_ "git.vcc.live/vcc-next/lib/go-mainlib.git/trace"
+	_ "google.golang.org/protobuf/proto"
+)
